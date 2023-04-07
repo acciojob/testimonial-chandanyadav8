@@ -1,1 +1,38 @@
 /*  your css code here. If applicable */
+#section{
+	margin:22px;
+	padding:30px;
+      
+/* 	border: solid 2px red; */
+	width:550px;
+	height:250px;
+	background-color: #f5f5f5
+	
+}
+.test{
+/* 	border:2px solid red; */
+	width:560px;
+	height:80px;
+	padding:0px;
+	margin:10px;
+	background:white;
+	
+}
+#s{
+/* 	display:flex; */
+/* 	margin:px;
+	padding:px; */
+	text-align:right;
+	color:black;
+	font-style:italic;
+	
+	
+}
+#para{
+	color:black;
+	padding:15px;
+	
+	font-size:10px
+	
+	
+}
